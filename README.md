@@ -64,8 +64,7 @@ Matthews Correlation Coefficient (MCC)
 LIVE DEMO 
 
 
-
-https://ml-assignment-2-dqbjzzz5knncletkmm6udm.streamlit.app/
+https://ml-assignment-2-bank-churn-yehaq9itdm2appzgpoo7zcx.streamlit.app/
 
 
 
