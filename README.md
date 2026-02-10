@@ -75,5 +75,6 @@ https://github.com/rajiisubramanian1983-netizen/ML-Assignment-2-Bank-Churn/tree/
 
 ScreenShot 
 
-![Uploading image.png…]()
+<img width="940" height="461" alt="image" src="https://github.com/user-attachments/assets/1964812a-77ec-4514-a9ff-210c2ade4c66" />
+
 
