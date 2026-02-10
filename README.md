@@ -73,3 +73,7 @@ GitHub
 
 https://github.com/rajiisubramanian1983-netizen/ML-Assignment-2-Bank-Churn/tree/main
 
+ScreenShot 
+
+![Uploading image.png…]()
+
