@@ -72,6 +72,5 @@ https://ml-assignment-2-dqbjzzz5knncletkmm6udm.streamlit.app/
 GitHub 
 
 
-
-https://github.com/rajiisubramanian1983-netizen/ML-Assignment-2
+https://github.com/rajiisubramanian1983-netizen/ML-Assignment-2-Bank-Churn/tree/main
 
